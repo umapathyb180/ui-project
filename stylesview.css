@@ -1,0 +1,19 @@
+  li{padding: 10px;}
+
+.col-6 text-bg-dark p-3 first{
+  text-align: right;
+  position: absolute;
+}
+
+.col{padding-left: 10px;}
+.btn btn-primary{
+
+}
+.container4{
+  margin-left: 200px;
+  width: 60%;
+}
+
+body{
+  font-family: 'helvetica-neue-9',sans-serif;
+}
